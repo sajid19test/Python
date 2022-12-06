@@ -15,4 +15,4 @@ if __name__=='__main__':
     print('Password length is '+str(accVerify.check_password_length('offtoschool')))
     print('Password conatains special character ' +str(accVerify.check_spcl_char('offtoschool')))
     print('Password test complted')
-    print('Webhook check')
+    print('Webhook check and test')
